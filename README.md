@@ -123,12 +123,6 @@ course-registration-system/
 
 ---
 
-## 📷 Output / Screenshots
-
-(Add screenshots of API responses or UI if available)
-
----
-
 ## 💡 Future Enhancements
 
 * 🔐 Add authentication and authorization using Spring Security
@@ -150,9 +144,10 @@ course-registration-system/
 
 ## 👨‍💻 Author
 
-Your Name
+Fraanglen M
 B.Tech IT Student
 Aspiring Java Backend Developer
+Cloud Computing
 
 ---
 
